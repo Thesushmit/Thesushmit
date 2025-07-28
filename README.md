@@ -80,7 +80,7 @@ Here are some of the projects I'm proud of:
 ### 📫 Let's Connect
 
 - 🔗 [LinkedIn]([https://www.linkedin.com/in/sushmit-partakke](https://www.linkedin.com/in/sushmit-partakke-04bb6b2a9/))
-- 📧 Email: [sushmitpartakke@gmail.com](mailto:sushmitp1@gmail.com)
+- 📧 Email: [sushmitp1@gmail.com](mailto:sushmitp1@gmail.com)
 
 ---
 
