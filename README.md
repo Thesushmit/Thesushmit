@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Sushmit Partakke</h1>
 
 <p align="center">
-🎓 CSE Student | 💻 Developer | 🤖 Machine Learning Enthusiast  
+🎓 CSE Student
 </p>
 
 ---
@@ -80,7 +80,7 @@ Here are some of the projects I'm proud of:
 ### 📫 Let's Connect
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/sushmit-partakke)
-- 📧 Email: [sushmitpartakke@gmail.com](mailto:sushmitpartakke@gmail.com)
+- 📧 Email: [sushmitpartakke@gmail.com](mailto:sushmitp1@gmail.com)
 
 ---
 
