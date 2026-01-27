@@ -1,89 +1,105 @@
-<h1 align="center">Hi there 👋, I'm Sushmit Partakke</h1>
+<h1 align="center">Hi 👋, I'm Sushmit Partakke</h1>
+<h3 align="center">Computer Science Student | Web & AI Enthusiast</h3>
 
 <p align="center">
-🎓 CSE Student
+🚀 Building real-world solutions with code, data, and intelligence
 </p>
 
 ---
 
-### 👨‍🎓 About Me
-- 🎓 3rd Year B.Tech Student in **Computer Science & Engineering**  
-  at **Symbiosis Institute of Technology, Nagpur**
-- 🌱 Currently exploring Deep Learning, Full Stack Development, and AI for Social Good
-- 💼 Completed internship at **Agnirva Technologies**
-- 💬 Ask me about Python, OpenCV, FaceNet, and Web Dev Basics
-- ⚡ Fun Fact: I love solving real-world problems using AI & automation!
+## 🧑‍💻 About Me
+
+- 🎓 Computer Science & Engineering Student (2nd Year)
+- 🔭 Currently working on **Real-time Face & Mask Recognition Attendance Systems**
+- 🧠 Interested in **Machine Learning, Computer Vision & Data Analytics**
+- 🌐 Experienced in **Full-Stack Web Development**
+- 📊 Enjoy solving practical problems using **algorithms & data-driven approaches**
+- 🎯 Career Goal: Build **impactful, scalable tech solutions** and grow as a **software engineer**
 
 ---
 
-### 🛠️ Languages & Tools
+## 🤝 Connect With Me
 
-#### 💻 Languages
-
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-#### 🧠 Python Libraries
-
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-3776AB?style=for-the-badge&logo=matplotlib&logoColor=white)
-![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![FaceNet](https://img.shields.io/badge/-FaceNet-00599C?style=for-the-badge)
-
-#### 🧰 Tools & Platforms
-
-![VSCode](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=black)
-
----
-
-### 🚀 Projects
-
-Here are some of the projects I'm proud of:
-
-- 🔬 [AI and Green Technology Training Program](https://github.com/Thesushmit/AI_and_Green_Technology_Training_Program)  
-  > ML-powered sustainability-focused solutions.
-
-- 🌸 [Iris Flower Classification](https://github.com/Thesushmit/Iris-Flower-Classification-)  
-  > Simple supervised learning example using Pandas & Scikit-learn.
-
-- ✅ [Task Management Tool](https://github.com/Thesushmit/Task-Management-Tool)  
-  > Web-based task manager with modern UI.
-
-- 🧠 [Smart Attendance Management](https://github.com/Thesushmit/Smart-Attendance-Management)  
-  > Real-time Face + Mask Recognition using YOLOv5 & FaceNet.
-
-- 🎵 [Rock vs Mine Prediction](https://github.com/Thesushmit/Rock-vs-Mine-Prediction-Project)  
-  > Binary classification model on sonar dataset.
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Thesushmit&show_icons=true&theme=tokyonight" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thesushmit&layout=compact&theme=tokyonight" width="45%" />
+<p align="left">
+<a href="https://www.linkedin.com/in/sushmit-partakke-04bb6b2a9/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 </p>
 
 ---
 
-### 📫 Let's Connect
+## 🛠️ Tech Stack
 
-- 🔗 [LinkedIn]([https://www.linkedin.com/in/sushmit-partakke](https://www.linkedin.com/in/sushmit-partakke-04bb6b2a9/))
-- 📧 Email: [sushmitp1@gmail.com](mailto:sushmitp1@gmail.com)
+### 🚀 Languages & Core Skills
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="42"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="42"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="42"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="42"/>
+</p>
+
+### 🌐 Web Development
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="42"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="42"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="42"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="42"/>
+</p>
+
+### 🧠 Machine Learning & Data
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="42"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="42"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="42"/>
+</p>
+
+### 🗄️ Backend & Tools
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="42"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="42"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="42"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="42"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="42"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="42"/>
+</p>
 
 ---
 
+## 📊 GitHub Stats (Dark Theme)
+
 <p align="center">
-Thanks for visiting my profile! 🚀  
+<img src="https://github-readme-stats.vercel.app/api?username=Thesushmit&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thesushmit&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
 </p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Thesushmit&theme=tokyonight&hide_border=true" height="180"/>
+</p>
+
+---
+
+## 🏆 GitHub Achievements
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Thesushmit&theme=tokyonight&no-frame=true&row=1&column=7"/>
+</p>
+
+---
+
+## 📈 Contribution Activity Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Thesushmit&theme=tokyo-night&area=true&hide_border=true"/>
+</p>
+
+---
+
+## 🟩 Pac-Man Contribution Animation
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="pacman animation"/>
+</p>
+
+---
+
+⭐ **I believe in learning by building, experimenting, and improving with every project.**
