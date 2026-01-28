@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sushmit Partakke</h1>
-<h3 align="center">Computer Science Student | Web & AI Enthusiast</h3>
+<h3 align="center">Computer Science Student</h3>
 
 <p align="center">
 🚀 Building real-world solutions with code, data, and intelligence
@@ -78,14 +78,6 @@
 
 ---
 
-## 🏆 GitHub Achievements
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Thesushmit&theme=tokyonight&no-frame=true&row=1&column=7"/>
-</p>
-
----
-
 ## 📈 Contribution Activity Graph
 
 <p align="center">
@@ -93,8 +85,6 @@
 </p>
 
 ---
-
-## 🟩 Pac-Man Contribution Animation
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="pacman animation"/>
