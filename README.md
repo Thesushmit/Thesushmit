@@ -56,13 +56,3 @@
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Thesushmit&theme=tokyo-night&area=true&hide_border=true"/>
 </p>
-
----
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="pacman animation"/>
-</p>
-
----
-
-⭐ **I believe in learning by building, experimenting, and improving with every project.**
