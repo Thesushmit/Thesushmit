@@ -31,10 +31,6 @@
 <br>
 <br>
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Thesushmit&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" height="180"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thesushmit&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
-</p>
 
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Thesushmit&theme=tokyonight&hide_border=true" height="180"/>
